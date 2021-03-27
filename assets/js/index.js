@@ -32,8 +32,8 @@ let result = 1;
 
 while (count <= userInput2){
 
-  count++;
   result *= count;
+  count++;
   
 }
 console.log(result);
